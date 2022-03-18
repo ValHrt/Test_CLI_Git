@@ -1,0 +1,1 @@
+Test de Github CLI depuis le terminal du Mac / Ajout de texte avant commit
